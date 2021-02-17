@@ -1,0 +1,10 @@
+#!/bin/bash
+### BEGIN INIT INFO
+
+# Simple program to create pdf command which
+# opens a specified document in a pdf reader
+
+### END INIT INFO
+
+
+exec /usr/bin/qpdfview $1 

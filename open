@@ -1,0 +1,13 @@
+#!/bin/bash
+
+### BEGIN INITI INFO
+
+# Program to open common files from command line using
+# open + command instead of needing the specific program
+# name. There are easier ways to do this but this is 
+# mostly just a fun scripting project
+
+### END INIT INFO
+
+if []
+exec /usr/bin/ls
